@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-
     <form method="post">
         <button type="submit" name = "reset">Reinitialize</button>
     </form>
