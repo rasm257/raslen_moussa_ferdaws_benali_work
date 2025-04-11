@@ -1,0 +1,22 @@
+.titre {
+    padding: 5px;
+    margin: 5px;
+}
+
+.fighter {
+    border: 2px solid rgb(70, 66, 66);
+    margin: 2px;
+}
+
+.info {
+    border-bottom: 1px solid rgb(70, 63, 63);
+}
+
+.photo {
+    width: 100px;
+    height: auto;
+}
+
+.round{
+    margin:10px;
+}
